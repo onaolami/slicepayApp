@@ -1,0 +1,12 @@
+.input {
+  border: 1px solid #d9d9d9;
+  padding: 10px 16px;
+  border-radius: 6px;
+  width: 350px;
+  height: 56px;
+  font-family: var(--myGameGradual);
+}
+
+.Inputdiv {
+  background-color: aqua;
+}
